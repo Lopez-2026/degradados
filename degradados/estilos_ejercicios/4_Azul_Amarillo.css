@@ -1,0 +1,22 @@
+body{ 
+
+background: #2BBFE4;
+background: linear-gradient(270deg, rgba(43, 191, 228, 1) 0%, rgba(234, 236, 198, 1) 100%);}
+
+nav {
+    width: 100%;
+    background: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 10px; 
+    text-decoration: none; 
+    color: #333; 
+    font-weight: bold; 
+}
+
+nav a:hover {
+    color: blue; 
+}
